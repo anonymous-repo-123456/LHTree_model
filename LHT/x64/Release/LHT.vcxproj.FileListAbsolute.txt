@@ -1,1 +1,2 @@
 D:\cpp_code\new_LHTcode\niming\LHT\LHT\LHT\x64\Release\LHT.exe
+D:\cpp_code\new_LHTcode\niming\LHT_model\LHT\LHT\x64\Release\LHT.exe
